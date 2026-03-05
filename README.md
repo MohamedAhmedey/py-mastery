@@ -1,1 +1,2 @@
 # py-mastery
+py-mastery is a structured learning pathway designed to take you from Python fundamentals to advanced concepts. This repository serves as a personal roadmap, containing hands-on exercises, mini-projects, and curated notes that reinforce key topics such as data structures, object-oriented programming, algorithms, and Pythonic best practices. The goal is not just to learn Python, but to master it—building the confidence to tackle real-world problems, contribute to open-source projects, and write clean, efficient, and scalable code.
