@@ -1,0 +1,1 @@
+FruitsFruitsEggs& "C:/Users/Excel College/AppData/Local/Microsoft/WindowsApps/python3.13.exe" "c:/Users/Excel College/Desktop/Mohamed_Python_coding/New_file.py"
